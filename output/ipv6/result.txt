@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-16 06:33:22,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-09-17 18:39:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -7,7 +7,6 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源
-CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -67,6 +66,7 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 河南卫视,https://mursor.ottiptv.cc/mcp/henan.m3u8$订阅源
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075$订阅源
 吉林卫视,https://mursor.ottiptv.cc/mcp/jiling.m3u8$订阅源
+吉林卫视,http://cc02.tv12.xyz/5.m3u8$订阅源
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅源
 江苏卫视,https://mursor.ottiptv.cc/mcp/jiangsu.m3u8$订阅源
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$订阅源
@@ -82,17 +82,19 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 山东卫视,https://mursor.ottiptv.cc/mcp/shandong.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114$订阅源
+山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$订阅源
 陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8$订阅源
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$订阅源
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
 深圳卫视,https://mursor.ottiptv.cc/mcp/shenzheng.m3u8$订阅源
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 天津卫视,https://mursor.ottiptv.cc/mcp/tianjing.m3u8$订阅源
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$订阅源
 西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8$订阅源
+西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 新疆卫视,https://mursor.ottiptv.cc/mcp/xinjiang.m3u8$订阅源
+新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
 云南卫视,https://mursor.ottiptv.cc/mcp/yunnan.m3u8$订阅源
