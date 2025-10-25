@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-25 18:23:18,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-26 06:18:25,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
-CCTV-5,https://jzb.wwkejishe.top/?id=582$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+CCTV-5,https://jzb.wwkejishe.top/?id=582$订阅源
 CCTV-5+,https://jzb.wwkejishe.top/?id=583$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
@@ -33,8 +33,8 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,https://jzb.wwkejishe.top/?id=622$订阅源
+甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 贵州卫视,https://jzb.wwkejishe.top/?id=619$订阅源
 海南卫视,https://jzb.wwkejishe.top/?id=600$订阅源
