@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:18:23,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
+2025-11-21 18:24:28,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
@@ -31,8 +31,8 @@ CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 东方卫视,https://live.chinacert.cftest5.cn/mg/?id=651632648$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
-东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 海南卫视,https://live.chinacert.cftest5.cn/mg/?id=947472502$订阅源
 河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291$订阅源
