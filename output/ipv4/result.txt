@@ -1,27 +1,26 @@
 🕘️更新时间,#genre#
-2025-12-20 06:19:26,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
+2025-12-21 18:23:39,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
-CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
+CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$订阅源
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
+CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
 CCTV-10,http://183.220.107.138:4022/rtp/239.11.0.112:5140$订阅源
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
-CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
+CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
@@ -42,7 +41,6 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
-广西卫视,http://60.13.52.236:65500/newlive/live/hls/42/live.m3u8$订阅源
 贵州卫视,http://60.13.52.236:65500/newlive/live/hls/31/live.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
