@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-09 18:31:56,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-01-10 06:22:42,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
@@ -9,5 +9,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8$订阅源
 辽宁卫视,https://www.goodiptv.club/douyu/9403738$订阅源
